@@ -231,7 +231,7 @@ export default function NFTGalleryPage() {
                         rel="noopener noreferrer"
                         className="flex-1"
                       >
-                        <RippleButton size="sm" className="flex items-center gap-1">
+                      <RippleButton size="sm" className="flex items-center gap-1">
                           <ExternalLink className="h-3 w-3" />
                           <span>View on Explorer</span>
                         </RippleButton>

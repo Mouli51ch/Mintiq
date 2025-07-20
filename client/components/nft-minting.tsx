@@ -86,13 +86,13 @@ export function NFTMinting({ documentId, documentName, trustScore, onComplete }:
         });
         const respData = await resp.json();
         console.log('Backend response:', respData);
-        setNftData({
-          tokenId: tokenId || "?",
-          transactionHash: tx.hash,
-          blockchain: "Educhain Testnet",
-          ipfsUrl,
-          certificateUrl: `/certificates/${tokenId || "?"}`,
-        });
+      setNftData({
+        tokenId: tokenId || "?",
+        transactionHash: tx.hash,
+        blockchain: "Educhain Testnet",
+        ipfsUrl,
+        certificateUrl: `/certificates/${tokenId || "?"}`,
+      });
       }
       setStatus("complete");
       setProgress(100);
