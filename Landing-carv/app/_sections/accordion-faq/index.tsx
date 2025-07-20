@@ -1,4 +1,4 @@
-import type { Faq } from "../../_sections/faq";
+import type { Faq } from "../faq";
 
 import { Heading } from "../../../common/heading";
 import { Section } from "../../../common/section-wrapper";

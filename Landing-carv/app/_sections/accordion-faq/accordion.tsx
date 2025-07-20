@@ -2,7 +2,7 @@
 import * as AccordionPrimitive from "@radix-ui/react-accordion";
 import { MinusCircledIcon, PlusCircledIcon } from "@radix-ui/react-icons";
 import * as React from "react";
-import { type Faq } from "../../_sections/faq";
+import { type Faq } from "../faq";
 import { sendEvent } from "basehub/events";
 import { GeneralEvents } from "../../../lib/basehub/fragments";
 

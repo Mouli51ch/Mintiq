@@ -9,8 +9,8 @@ import * as Popover from "@radix-ui/react-popover";
 import { type AuthorFragment } from "../../lib/basehub/fragments";
 import { getArticleSlugFromSlugPath } from "../../lib/basehub/utils";
 
-import { Avatar } from "../../common/avatar";
-import { AvatarsGroup } from "../../common/avatars-group";
+import { Avatar } from "../avatar";
+import { AvatarsGroup } from "../avatars-group";
 import { useSearchHits } from "../../context/search-hits-context";
 
 export function SearchContent({ _searchKey }: { _searchKey: string }) {
