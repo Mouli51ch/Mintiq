@@ -373,8 +373,19 @@ export default function MintellectLanding() {
               <div className="absolute inset-0 bg-gradient-to-r from-purple-500/5 to-blue-500/5 animate-pulse"></div>
               <CardContent className="p-0 relative z-10">
                 <div className="aspect-video bg-gradient-to-br from-gray-900 via-black to-gray-900 relative overflow-hidden">
+                  {/* Mintiq Demo Video */}
+                  <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/60">
+                    <video
+                      controls
+                      className="rounded-lg shadow-lg max-w-full max-h-full aspect-video border-2 border-purple-500"
+                      style={{ background: '#000' }}
+                    >
+                      <source src="/videos/Mintiq%20DEMO%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4" />
+                      Your browser does not support the video tag.
+                    </video>
+                  </div>
                   {/* Mock Dashboard UI */}
-                  <div className="absolute inset-4 glass-card rounded-lg">
+                  <div className="absolute inset-4 glass-card rounded-lg z-10">
                     <div className="p-6">
                       {/* Header */}
                       <div className="flex items-center justify-between mb-6">
