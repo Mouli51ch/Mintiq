@@ -7,7 +7,7 @@ import { RippleButton } from "@/components/ui/ripple-button"
 import { Shield, Download, Share2, ExternalLink, Copy, FileText, Check } from "lucide-react"
 import Link from "next/link"
 import { ethers } from "ethers"
-import contractABI from "@/lib/MintellectNFT_ABI.json"
+import contractABI from "@/lib/MintiqNFT_ABI.json"
 
 const CONTRACT_ADDRESS = process.env.NEXT_PUBLIC_NFT_CONTRACT_ADDRESS!;
 
