@@ -126,7 +126,7 @@ export default function MintellectLanding() {
             {/* CTA Button */}
             <Button
               className="gradient-purple hover:scale-105 transition-all duration-200 glow-purple relative overflow-hidden"
-              onClick={() => window.location.href = '/dashboard'}
+              onClick={() => window.location.href = 'https://mintiq.vercel.app/'}
             >
               <span className="keyboard-key px-2 py-1 rounded text-xs mr-2 font-mono">B</span>
               Launch App
@@ -203,7 +203,7 @@ export default function MintellectLanding() {
               <Button
                 size="lg"
                 className="gradient-purple hover:scale-105 transition-all duration-200 glow-purple text-lg px-8 py-4 font-semibold relative overflow-hidden group"
-                onClick={() => window.location.href = '/dashboard'}
+                onClick={() => window.location.href = 'https://mintiq.vercel.app/'}
               >
                 <span className="keyboard-key px-3 py-1 rounded text-sm mr-3 font-mono">B</span>
                 Launch App
