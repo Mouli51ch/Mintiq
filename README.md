@@ -70,12 +70,6 @@ Check out the live demo hosted on Vercel:\
 
 ---
 
-## 📫 Contact & Community
 
-- Email: [mintiqproject@gmail.com](mailto:mintiqproject@gmail.com)
-- Twitter: [https://x.com/_Mintiq_](https://x.com/_Mintiq_)
-- Join our Discord:  coming soon
-
----
 
 > © 2025 Mintiq. All rights reserved.
