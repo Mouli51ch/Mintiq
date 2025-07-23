@@ -42,9 +42,15 @@ Mintiq is an AI + Blockchain-powered research publishing platform where innovati
 
 ---
 
-## 📦 Demo
 
-Check out the live demo hosted on Vercel:\
+## 🌐 Landing Page
+
+The official landing page is hosted at:
+� [https://mintiq-swart.vercel.app/](https://mintiq-swart.vercel.app/)
+
+## �📦 Demo
+
+Check out the live demo hosted on Vercel:
 👉 [Demo Link](https://app.mintiq.xyz)
 
 ---

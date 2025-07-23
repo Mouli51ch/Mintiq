@@ -9,7 +9,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Mintellect - Revolutionizing Research with AI and Blockchain",
+  title: "Mintiq - Revolutionizing Research with AI and Blockchain",
   description:
     "Verify your work, mint your proof, and join a decentralized research ecosystem. AI-powered originality scoring and blockchain verification for researchers.",
   keywords: ["research", "AI", "blockchain", "Web3", "plagiarism detection", "NFT", "academic publishing"],

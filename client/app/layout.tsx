@@ -12,8 +12,8 @@ import { AnimatedLogo } from "@/components/ui/animated-logo"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Mintellect - AI-Powered Academic Integrity Platform",
-  description: "Verify, improve, and certify your academic work with Mintellect's AI-powered platform.",
+  title: "Mintiq - AI-Powered Academic Integrity Platform",
+  description: "Verify, improve, and certify your academic work with Mintiq's AI-powered platform.",
    
 }
 
