@@ -28,7 +28,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        <link rel="icon" href="/images/Mintiq_logo.png" type="image/png" />
+        <link rel="icon" href="/images/NewLogo.png" type="image/png" />
         <title>Mintiq - AI-Powered Academic Integrity Platform</title>
         <meta name="description" content="Verify, improve, and certify your academic work with Mintiq's AI-powered platform." />
         <meta property="og:title" content="Mintiq - AI-Powered Academic Integrity Platform" />
